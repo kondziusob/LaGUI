@@ -6,7 +6,7 @@ Latest version always on [GitHub](https://github.com/kondziusob/LaGUI)
 ## Features
 - OOP programming interface
 - Parts of C++ STL ported from [ArduinoSTL](https://github.com/mike-matera/ArduinoSTL)
-- Tree structure of UI elements simmilar 
+- Tree structure of UI elements (sort of simmilar to JavaFX)
 - Uses KPZ's LCD and encoder drivers, RIOS and FatFS to provide decent reliability 
 - Built in input handling (the currently selected Node receives events)
 - Different style aspects (border, color etc)
