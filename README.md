@@ -52,5 +52,16 @@ int main() {
     return 0;
 }
 ```
+## The demo
+This demo is a very basic music player. It supports up to 13 WAV files placed in the root directory of SD card.
+Once a file is selected, the program will attempt to play it using the builtin headphone output.
+
+### TODO
+- Add multi-page function
+- Add play/pause
+- Make the UI less bare-bones
+
 (C) Konrad Sobczak (kks1g19@soton.ac.uk) 2021
 This code also uses the LaFortuna-WAV-lib by [fatcookies](https://github.com/fatcookies)
+
+
