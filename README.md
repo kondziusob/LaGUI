@@ -1,6 +1,8 @@
 # LaGUI
 ## _Simple AVR GUI library optimised for LaFortuna boards_
 
+Latest version always on [GitHub](https://github.com/kondziusob/LaGUI)
+
 ## Features
 - OOP programming interface
 - Parts of C++ STL ported from [ArduinoSTL](https://github.com/mike-matera/ArduinoSTL)
