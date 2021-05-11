@@ -53,3 +53,4 @@ int main() {
 }
 ```
 (C) Konrad Sobczak (kks1g19@soton.ac.uk) 2021
+This code also uses the LaFortuna-WAV-lib by [fatcookies](https://github.com/fatcookies)
